@@ -1,8 +1,8 @@
 class RecipeCard extends HTMLElement {
   constructor() {
-    // Part 1 Expose - TODO
-
-    // You'll want to attach the shadow DOM here
+    // Part 1 Expose
+    super();
+    const shadow = this.attachShadow({mode: 'open'});
   }
 
   set data(data) {
@@ -99,7 +99,65 @@ class RecipeCard extends HTMLElement {
     // Make sure to attach your root element and styles to the shadow DOM you
     // created in the constructor()
 
-    // Part 1 Expose - TODO
+    // Part 1 Expose
+    this.shadowRoot.appendChild(card);
+    this.shadowRoot.appendChild(styleElem);
+
+    const image = document.createElement("img");
+    image.src = searchForKey(data, "thumbnailUrl");
+    image.alt = searchForKey(data, "headline");
+    card.appendChild(image);
+
+    const titleP = document.createElement("p");
+    titleP.classList.add("title");
+    const title = document.createElement("a");
+    title.href = getUrl(data);
+    title.innerText = searchForKey(data, "headline");
+    titleP.appendChild(title);
+    card.appendChild(titleP);
+
+    const organization = document.createElement("p");
+    organization.classList.add("organization");
+    organization.innerText = getOrganization(data);
+    card.appendChild(organization);
+
+
+    const rating = document.createElement("div");
+    rating.classList.add("rating");
+    let rateExist = searchForKey(data, "ratingValue");
+    const avgRev = document.createElement("span");
+    
+    if(rateExist == null) {
+      avgRev.innerText = "No Review";
+      rating.appendChild(avgRev);
+    }
+    else {
+      avgRev.innerText = rateExist;
+      const rateImg = document.createElement("img");
+      rateExist = Math.round(rateExist);
+      rateImg.src = "assets/images/icons/" + rateExist + "-star.svg";
+      rateImg.alt = "" + rateExist + " stars";
+      const totRev = document.createElement("span");
+      totRev.innerText = "(" + searchForKey(data, "ratingCount") + ")";
+
+      rating.appendChild(avgRev);
+      rating.appendChild(rateImg);
+      rating.appendChild(totRev);
+    }
+
+    card.appendChild(rating);
+
+
+    const time = document.createElement("time");
+    const ISO = searchForKey(data, "totalTime");
+    time.innerText = convertTime(ISO);
+    card.appendChild(time);
+
+    const ingre = document.createElement("p");
+    ingre.classList.add("ingredients");
+    const list = searchForKey(data, "recipeIngredient");
+    ingre.innerText = createIngredientList(list);
+    card.appendChild(ingre);
   }
 }
 

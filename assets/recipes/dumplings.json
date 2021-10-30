@@ -1,0 +1,252 @@
+{
+    "@context": "http://schema.org",
+    
+    "@type": ["Recipe"]
+    ,"headline": "Easy Drop Dumplings for Soups and Stews"
+    ,"datePublished": "2004-08-11T07:38:03.000-04:00"
+    ,"dateModified": "2021-09-23T14:01:19.971-04:00"
+    ,"author": [
+    {"@type": "Person"
+    ,"name": "Diana Rattray"
+    ,"description": "Southern-cuisine expert and cookbook author Diana Rattray has created more than 5,000 recipes and articles in her 20 years as a food writer."
+    ,"jobTitle": "Cookbook Author and Photographer"
+    ,"sameAs": [
+    "http://www.facebook.com/AboutSouthernfood",
+    "http://twitter.com/a_southernfood",
+    "https://www.instagram.com/dianarattray/",
+    "https://www.thespruceeats.com/diana-rattray-3034029"
+    ]
+    ,"knowsAbout": ["Southern cuisine, easy recipes, artisan baking, preserving, pressure cooking"]
+    }
+    ]
+    ,"description": "This easy recipe for drop dumplings requires only four ingredients and is perfect for chicken and beef stews and soups. Add parsley or chives for color."
+    ,"image": [
+    {
+    "@type": "ImageObject",
+    "url": "https://www.thespruceeats.com/thmb/38NdlClWrk9fVRYENFoy_ma_zcY=/2000x1125/smart/filters:no_upscale()/dumplings-for-stew-3051608-hero-01-1d4041edf94a451ea488f613cd288cc4.jpg",
+    "height": 1125,
+    "width": 2000
+    },
+    {
+    "@type": "ImageObject",
+    "url": "https://www.thespruceeats.com/thmb/0cVxdY2iCPPE3vTzBPHLIiTmw5A=/1776x1332/smart/filters:no_upscale()/dumplings-for-stew-3051608-hero-01-1d4041edf94a451ea488f613cd288cc4.jpg",
+    "height": 1332,
+    "width": 1776
+    },
+    {
+    "@type": "ImageObject",
+    "url": "https://www.thespruceeats.com/thmb/UmkHJjbq0WszeXBP2dJqwINSZsQ=/1332x1332/smart/filters:no_upscale()/dumplings-for-stew-3051608-hero-01-1d4041edf94a451ea488f613cd288cc4.jpg",
+    "height": 1332,
+    "width": 1332
+    }
+    ]
+    ,"video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/YGK7uahC-tXzwfO7V.mp4",
+    "description": "When you make dumplings, you create a Southern specialty, and the ultimate comfort food.​ In this video, you'll learn how to create our simple dough recipe, which is dropped directly into a hot liquid. The dish is then steamed and boiled directly in the stew or soup in which it will be served. We recommend following classic recipes, like chicken and dumplings. For best results, follow our pro tips and tricks. ",
+    "duration": "PT1M5S",
+    "name": "Easy Drop Dumplings Recipe for Soups and Stews",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/YGK7uahC/poster.jpg?width=720",
+    "uploadDate": "2020-10-12T19:49:27.771Z"}
+    ,"publisher": {
+    "@type": "Organization",
+    "name": "The Spruce Eats",
+    "url": "https://www.thespruceeats.com",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.thespruceeats.com/thmb/f3m_vtGjmtpclj77cP5o_vmsxBM=/361x109/filters:no_upscale():max_bytes(150000):strip_icc()/thespruceeats2x-a1e29f658c6a4903ad453641f794cb18.png",
+    "width": 361,
+    "height": 109
+    },
+    "brand": "The Spruce Eats"
+    , "publishingPrinciples": "https://www.thespruceeats.com/about-us-4776236#editorial-guidelines"
+    }
+    ,"name": "Easy Drop Dumplings for Soups and Stews"
+    ,"aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "688"
+    }
+    ,"cookTime": "PT10M"
+    ,"keywords": "Stew, dumplings"
+    ,"nutrition": {
+    "@type": "NutritionInformation"
+    ,"calories": "130 kcal"
+    ,"carbohydrateContent": "26 g"
+    ,"cholesterolContent": "2 mg"
+    ,"fiberContent": "1 g"
+    ,"proteinContent": "4 g"
+    ,"saturatedFatContent": "0 g"
+    ,"sodiumContent": "523 mg"
+    ,"sugarContent": "2 g"
+    ,"fatContent": "1 g"
+    ,"servingSize": "6 to 8 servings"
+    ,"unsaturatedFatContent": "0 g"
+    }
+    ,"prepTime": "PT10M"
+    , "recipeCategory": ["Dinner","Lunch","Ingredient","Soup"]
+    ,"recipeCuisine": ["American","Southern"]
+    ,"recipeIngredient": [
+    "2 cups all-purpose flour",
+    "4 teaspoons baking powder",
+    "1 teaspoon salt",
+    "1 cup milk (or water)",
+    "Stew or soup for cooking and serving" ]
+    ,"recipeInstructions": [
+    {
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.thespruceeats.com/thmb/eIzfuJqAAbs-QZhBsLNGPI2qXUQ=/2000x1333/filters:no_upscale()/dumplings-for-stew-3051608-step-01-b7ec343a1bdd4289b71a4061cff81307.jpg",
+    "height": 1333,
+    "width": 2000
+    }
+    ,"text": "Gather the ingredients."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.thespruceeats.com/thmb/6CEYewdBFMvqbIh6SrbiGe5nqmc=/2000x1332/filters:no_upscale()/dumplings-for-stew-3051608-step-02-0c39a074864142e3b5839a1411244338.jpg",
+    "height": 1332,
+    "width": 2000
+    }
+    ,"text": "Sift the flour, baking powder, and salt together in a large bowl."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.thespruceeats.com/thmb/B9Bx0-8JSYu2q9hzu6kFl3rDn2k=/2000x1332/filters:no_upscale()/dumplings-for-stew-3051608-step-03-5b12bb2e45774da2a7cbda02cfa6a154.jpg",
+    "height": 1332,
+    "width": 2000
+    }
+    ,"text": "Add the milk and mix. The batter should be thick enough to be scooped and dropped from a spoon. Let it rest for a few minutes."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.thespruceeats.com/thmb/ODqp23Lz83KF1dvuPUqUwovCdP4=/2000x1332/filters:no_upscale()/dumplings-for-stew-3051608-step-04-ce9c4f82093b40629fb71ca023ed0c31.jpg",
+    "height": 1332,
+    "width": 2000
+    }
+    ,"text": "Once the boiling stew or soup is nearly done, drop spoonfuls of the batter on top. Be sure that there is plenty of liquid in the pot, but try to keep the dumplings on top of the vegetables and meat."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.thespruceeats.com/thmb/ynhlnSFM1guvn5kS_y1okqtr9Xo=/2000x1332/filters:no_upscale()/dumplings-for-stew-3051608-step-05-4f6c132be76b4fd481d088e52579cc70.jpg",
+    "height": 1332,
+    "width": 2000
+    }
+    ,"text": "Cover and cook for about 10 to 15 minutes, depending on the size of the dumplings. Do not remove the lid until it is time to check the dumplings; when ready, a toothpick inserted into one of the dumplings should come out clean."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.thespruceeats.com/thmb/9fv5Or2PRFll5ktOQj5_O1zIJf0=/2000x1332/filters:no_upscale()/dumplings-for-stew-3051608-step-06-209e5a93d35d403fa5571b4b5e15f6dd.jpg",
+    "height": 1332,
+    "width": 2000
+    }
+    ,"text": "Once done, spoon the stew or soup with the dumplings into a bowl and enjoy."
+    } ]
+    ,"recipeYield": "8"
+    ,"totalTime": "PT20M"
+    ,"review": [
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "Shaina Gunn"
+    },
+    "reviewBody": "Except for the sugar... these are how I make my biscuits... I use a bit more butter, and I literally only had 2 tablespoons of butter left... ugh so glad I found this recipe and still stayed in my comfort zone! \nYour site is my always go to site!! Never fails!!"
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "SS"
+    },
+    "reviewBody": "I love these dumplings. Each time I make them they are nice and fluffy. I chop up the green parts of spring/knob onions and drop them on top of homemade turkey soup. I'm thinking about seeing what would happen if I put in a little cinnamon and sugar and try dropping them on hot applejuice/cider for a dessert snack."
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "Ruth"
+    },
+    "reviewBody": "I made these about a month ago my husband and his friends enjoyed them very much, I'm not a fan of dumplings made out of biscuit so I searched on line to find this recipe. The dumplings are very good & melted in my mouth when I ate them. I would definitely recommend this recipe for others to try."
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "N'Tasha Spicer"
+    },
+    "reviewBody": "I am disappointed. They come out metallicy with a bad aftertaste. I think its too much Baking Powder. Im VERY poor and just wasted flour 🥺"
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "Carol Wilson "
+    },
+    "reviewBody": "Can you make your dumplings ahead of time, and leave in the fridge until you need to add to stew ?"
+    }
+    ]
+    ,"mainEntityOfPage": {
+    "@type": ["WebPage"]
+    ,"@id": "https://www.thespruceeats.com/dumplings-for-stew-3051608"
+    ,"breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+    "@id": "https://www.thespruceeats.com/soups-stews-chili-4162715",
+    "name": "Soups, Stews & Chili"
+    }
+    }
+    ,
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+    "@id": "https://www.thespruceeats.com/stews-4162712",
+    "name": "Stews"
+    }
+    }
+    ,
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+    "@id": "https://www.thespruceeats.com/dumplings-for-stew-3051608",
+    "name": "Easy Drop Dumplings for Soups and Stews"
+    }
+    }
+    ]
+    }
+    ,"reviewedBy": [
+    {"@type": "Person"
+    ,"name": "Colleen Graham"
+    ,"description": "Freelance writer and cocktail book author Colleen Graham is a seasoned mixologist who loves sharing her knowledge of spirits and passion for preparing drinks."
+    ,"jobTitle": "Cocktail Book Author and Mixologist"
+    ,"sameAs": [
+    "https://www.facebook.com/ColleensDrinkStudio",
+    "https://twitter.com/cocktailsguide",
+    "https://www.pinterest.com/cocktailsguide/",
+    "http://www.scdrinkstudio.com/",
+    "https://www.thespruceeats.com/colleen-graham-758955"
+    ]
+    }
+    ]
+    ,"lastReviewed": "2020-03-25T10:14:15.000-04:00"
+    }
+    , "about": [
+    ]		
+    }
+    
