@@ -57,7 +57,6 @@ async function fetchRecipes() {
         })
         .catch((error) => reject(false));
     }
-    console.log(recipeData);
   });
 }
 
